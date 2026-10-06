@@ -1,0 +1,23 @@
+STARTUP_ANALYSIS_SCHEMA = {
+    "validation_score": 0,
+    "summary": "",
+    "business_model_analysis": "",
+    "revenue_model_analysis": "",
+    "market_size_analysis": "",
+    "problem_solution_fit": "",
+    "competitive_advantage_analysis": "",
+    "investment_readiness_score": 0,
+    "investment_readiness_analysis": "",
+    "ai_confidence_score": 0,
+    "ai_confidence_analysis": "",
+    "action_plan": [],
+    "market_opportunity": "",
+    "competitor_analysis": "",
+    "strengths": [],
+    "weaknesses": [],
+    "opportunities": [],
+    "threats": [],
+    "risks": [],
+    "recommendations": [],
+}
+
